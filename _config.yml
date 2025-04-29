@@ -1,0 +1,18 @@
+author: litjhr
+title: vTest
+collections:
+  blogs:
+    output: true
+  thinking:
+    output: true
+  news:
+    output: true
+navigation:
+  - title: "首页"
+    url: "/vtest/"
+  - title: "Blogs"
+    url: "/vtest/allblogs.html"
+  - title: "Thinking"
+    url: "/vtest/allthinking.html"
+  - title: "News"
+    url: "/vtest/allnews.html"
