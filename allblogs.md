@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 所有博客文章
+title: All Blogs
 ---
 
 <h1>{{ page.title }}</h1>
